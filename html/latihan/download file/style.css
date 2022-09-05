@@ -1,0 +1,10 @@
+p {
+    color: aqua;
+    text-align: justify;
+    font-family: calibri, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+
+body {
+    background-image: url("../img/boostrap.jpeg");
+}
